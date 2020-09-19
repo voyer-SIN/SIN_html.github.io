@@ -1,5 +1,5 @@
 # SIN_html.github.io
-Ce repo est la source de votre travail, vous devez vous en servir comme point de départ pour le développement de vos premières pages web statiques.
+Ce repo contient les fichiers sources de votre travail, vous devez vous en servir comme point de départ pour le développement de vos premières pages web (statiques).
 ## Utilisation en tant que Template :
 Cliquer en haut à droite sur *"use this template"*, ce qui copiera les fichiers directement sur votre compte GitHub.
 ## Suivi de votre travail :
