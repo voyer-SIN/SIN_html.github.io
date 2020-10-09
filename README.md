@@ -10,5 +10,8 @@ Je vous demande ensuite de m'ajouter comme collaborateur afin que je puisse suiv
 ## Fichiers de l'activité
 Le travail demandé pour cette activité se trouve dans le répertoire *Fichiers de l'activité*.
 
+## Aperçu du résultats
+Vous trouverez un aperçu du résultat souhaité sur ce lien : https://voyer-sin.github.io/site_web_SIN/
+
 
 # Bon courage !
